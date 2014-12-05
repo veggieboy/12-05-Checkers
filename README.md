@@ -14,7 +14,7 @@ Create a single constructor that takes 4 integer parameters (from row, from colu
 
 ### Accessors 
 - create an accessor method for each field. They *MUST* be named: **getFromRow**, **getFromCol**, **getToRow** & **getToCol**
-- create a boolean accessor, isJump, that tests whether this move is a jump.  It is assumed that the move is legal.  In a jump, the piece moves two rows.  (In a regular move, it only moves one row.)
+- create a boolean accessor, **isJump**, that tests whether this move is a jump.  It is assumed that the move is legal.  In a jump, the piece moves two rows.  (In a regular move, it only moves one row.)
 
 ## Complete the class CheckersData (CheckersData.java)
 - complete method **pieceAt**: return the contents of the square in the specified row and column.
