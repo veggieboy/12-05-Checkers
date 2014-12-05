@@ -5,7 +5,7 @@
    moves, the game ends.
 
    This file defines four classes: the main applet class, Checkers;
-   CheckersCanvas, CheckersMove, and CheckersData.
+   CheckersCanas, CheckersMove, and CheckersData.
    (This is not very good style; the other classes really should be
    nested classes inside the Checkers class.)
  */
