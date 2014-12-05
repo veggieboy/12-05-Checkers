@@ -243,7 +243,8 @@ class CheckersCanvas extends Canvas implements ActionListener, MouseListener {
 	}
 
 
-	public void paint(Graphics g) {
+	public void paint(Graphics g) 
+	{
 		// Draw  checkerboard pattern in gray and lightGray.  Draw the
 		// checkers.  If a game is in progress, hilite the legal moves.
 
